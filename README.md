@@ -1,2 +1,2 @@
 # DrySelCore Demo
-Demonstration of "DrySelCore". It may serve as a reference on how to user "DrySelCore" framework too.
+Demonstration of "DrySelCore". It may serve as a reference on how to use "DrySelCore" framework too.
